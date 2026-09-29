@@ -1,4 +1,4 @@
-  # GP1
+# GP1
 AI-powered delivery comparison and decision-support system that compares delivery options, predicts delivery times using Machine Learning, and provides personalized recommendations using Multi-Criteria Decision-Making (MCDM).
 # Smart Delivery Comparison App
 
@@ -47,7 +47,7 @@ The proposed system includes:
 - XGBoost — Machine Learning
 
 ## Repository Structure
-
+,
 ```text
 GP1/
 ├── docs/       # Report, diagrams, wireframes, and survey results
